@@ -1,0 +1,9 @@
+REQUIREMENTS:
+
+Flask = 1.1.1
+
+Numpy >= 1.18.1
+
+Scikit-learn = 0.24.1
+
+Pandas >= 1.0.1
